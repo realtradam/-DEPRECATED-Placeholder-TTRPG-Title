@@ -1,0 +1,30 @@
+# Social
+
+Social encounters are settled using cards drawn from your deck vs the enemies deck. Whichever party has the higher value of the net total of their cards will be successful while the other party will not. By default characters only draw one card in a social encounter. You can use your reputation, talents, information gathered, or spells to improve your chances of a successful encounter.
+
+### Information Gathering
+When characters explore the world, a city, or even just a room, they will encounter various pieces of information. Rumours in a tavern, or secret documents when breaking into a room. Knowing these bits and pieces of information, they can be used to leverage an advantage when attempting a social encounter where such information may be relevant. Be warned though, exposing that you are willing to blackmail somone, or knowing something you shouldn't could drop your repuatation.
+
+### Reputation
+People and cities all have a reputation towards you. A better reputation will enable a peoples good opinion of you, making it easier to succeed in social encounters. However reputation isn't black an white. Some one can do many good deeds but still be known for a few bad ones. The following chart shows all the possible standings you can have with a person or group, with higher fame going toward the right while higher infamy tending towards the bottom.
+
+##### Named Reputation Chart
+
+| Range | 1 | 2 | 3 | 4 |
+| - | - | - | - | - |
+| **1** | Unformed | Accepted | Respected | Idolized |
+| **2** | Shunned | Mixed | Smiling Troublemaker | Good-Natured Rascal |
+| **3** | Denounced | Sneering Punk | Unpredictable | Dark Hero |
+| **4** | Condemned | Merciful Thug | Soft-Hearted Devil | Chaotic Dweller |
+
+##### Sample Advantage Chart[^1]
+| Range | 1 | 2 | 3 | 4 |
+| - | - | - | - | - |
+| **1** |  0 | +1 | +2 | +3 |
+| **2** | -2 | -1 |  0 | +1 |
+| **3** | -4 | -3 | -2 | -1 |
+| **4** | -6 | -5 | -4 | -3 |
+
+[^1]: A sample of how many extra cards you can draw based on your reputation. Negative values indicate the extra number of cards your social target gets to draw. This is just a sample chart for some characters however. A common townsfolk for example could be easily convinced to do something should someone have a very high negative reputation, simply out of fear. Reputation should be applied with context.
+
+In general hostile groups will have a starting default reputation as being very low while in most cities open cities the reputation would be fairly neutral. Reversing reputation is a very difficult and almost insurmountable task so be careful with how you want everyone to see you.

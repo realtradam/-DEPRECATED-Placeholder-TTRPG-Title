@@ -1,0 +1,16 @@
+# Character Stats
+
+Characters consist of 3 resources which are spent in various situations. Characters also begin with 2 talents they may choose from according to their class. All classes get various other benefits applied to their deck draws and other mechanics
+
+---
+
+## Character Resources
+
+### Energy
+How much you are able to do between rests. It costs energy to cast spells, use special abilities, reshuffle your deck etc. Characters start with 7 max energy, and can go up as a character gains experience
+
+### Stamina
+How much a character can do in a round. Individual actions such as dashing, attacking, spellcasting, etc cost stamina. Stamina is restored when your team ends their turn. Characters by default have max stamina.
+
+### Health
+How much punishment a character can take before collapsing from shock and pain. How much a character has depends on their class

@@ -1,0 +1,54 @@
+# Combat
+
+### Determining Turn Order
+At the start of combat all players and enemies draw 1 card from their respective decks. If the suit of the card drawn matches their class suit then the value of the card is considered to be doubled(2x). The order is determined by the highest value in their respective teams going first, and lower values going later.
+
+Once turn order is determined, draw two more cards, totalling up to 3 cards which you place in your hand
+
+---
+
+### Your turn
+Teams take their turns all at the same time. Movement, attacks, abilities, etc can all be taken in any order, and can be interleaved within each other. Your character energy is restored when your teams turn ends as well as draw cards from your deck until you are holding 3 cards.
+
+##### Summons
+
+Summons follow a special rule where they are not directly considered to be part of "your team" specifically for the purposes of turn order and their turn is instead take immediately after the the team they are a part of. All summons on the same team take their turn at the same time.
+
+---
+
+### Enemy turn
+Enemies similarly take their turn in a group. Some classes have the ability to interact with the enemy on their turns so should your class be able to do that you may do it during this phase of combat. Note that sometimes enemies can have this ability to do actions on your turn as well
+
+---
+
+### Uncontrolled Allies
+Sometimes you may have allies who join you in combat. They do their turn separately as they are considered to be on a different "npc ally" team
+
+---
+
+### End of Combat
+
+When combat ends, all players take any remaining cards in their hand, place them back into the deck and reshuffle the deck. Any players that have had their health reduced to 0 now may draw for an injury. If their injury doesn't outright kill them, they wake up from their shock. Once this has been done, the characters have completely existed combat. 
+
+---
+
+### General Actions
+Although many classes have unique abilities and actions, there are a few actions that all classes may attempt
+##### Weapon Attack
+It costs 2 Stamina to do an attack with fists. If a weapon does not specify how much stamina it costs to attack then it is 2 stamina by default.
+##### Dash
+| Effect | Cost |
+| --- | --- |
+| 2 additional tiles of movement | 2 stamina |
+| 4 additional tiles of movement | 3 stamina |
+##### Item Usage or Interaction
+To use an item from your collection, or to interact with an item such as a switch, its costs 1 stamina unless stated otherwise
+##### Sneak 
+To attempt to enter a stealth status costs 2 stamina. If you are already in stealth at the start of a turn, you must expend 2 stamina to maintain stealth or else you break it when you move or are seen.
+##### 🔻Grapple, Pin and Arrest🔻
+First a character must be grappled, then they can be pinned, finally followed by arresting them, making them unable to fight
+- **TODO**
+
+##### 🔻 Prone, Crouch, Cover 🔻
+- **TODO**
+

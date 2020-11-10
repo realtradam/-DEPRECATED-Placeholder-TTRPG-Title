@@ -1,0 +1,25 @@
+# Travel
+When travelling the storyteller will draw from a special travel deck designed by the storyteller using a tarot deck. Cards drawn from this deck will determine the needs of the party, or any encountered events and enemies.
+
+### Needs
+A need card is represented as one of the four suits and the value of the card represents its intensity. When this event happens, all players draw one card from their deck. If the net total of the matching suit exceeds the card drawn then they passed the event, but if they did not then they received penalties as outlined below. Characters can use their talents or abilities to improve the result.
+
+##### Spades: Food
+Players are having troubles finding food. For every point not satisfied, one of the players from the party must discard one card in from their deck
+##### Clubs: Water
+Characters are not able to find clean water. For every point not satisfied, one of the players from the party must lose one energy
+##### Hearts: Shelter
+Players are being stalked by wild animals or are in heavy weather and must find shelter. For each point missed, a player must draw an injury.
+##### Diamonds: Directions
+Characters are confused about what direction to proceed. Failing by 4 points or less the characters stand don't move, if they failed by 5 points or more they move in a random incorrect direction.
+
+### Encounters
+When a face card is drawn, the players will enter combat agaisnt a random group of enemies decided by being drawn from the enemy deck. The suit of the card drawn from this deck determined the enemy type, while the value determines how many of that enemy you must face. The amount of cards drawn is dependant on which face card was drawn from the travel deck as outlined below
+
+- Page: 1 card
+- Knight: 2 cards
+- Queen: 3 cards
+- King: 5 cards
+
+### Events
+An event card is a one of the tarot cards from the major arcana. These cards indicate a special unique event.
