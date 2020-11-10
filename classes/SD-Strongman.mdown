@@ -1,0 +1,27 @@
+# The Strongman Class
+
+###### Spade - Diamonds
+
+---
+
+A class based on being fit and strong. Talented in the arts of working out, they are able to perform almost superhuman feats.
+
+🔻High Health and speed, but lacks magical abilities(but still has some). They also have good social abilities🔻
+
+### This class may select 2 talents, 1 each from the 2 talent pools:
+
+---
+
+##### Spade Talents
+- Endurance(Physical)
+- Strength(Physical)
+- Precision(Physical)
+
+---
+
+##### Diamonds
+- Survival
+- Memory
+- Tactics
+
+---

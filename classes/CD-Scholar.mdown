@@ -1,0 +1,27 @@
+# The Scholar Class
+
+###### Club - Diamonds
+
+---
+
+Observant and studious, the Scholar is able to see how an enemy is summoning their magic and can steal it for a short while
+
+🔻Medium Health, Fast Speed, They have a few spells of your own but less then most casters. They can create temporary copies of enemy spells🔻
+
+#### This class may select 2 talents, 1 each from the 2 talent pools:
+
+---
+
+##### Club Talents
+- Endurance(Spellcasting)
+- Strength(Spellcasting)
+- Precision(Spellcasting)
+
+---
+
+##### Diamond Talents
+- Survival
+- Memory
+- Tactics
+
+---

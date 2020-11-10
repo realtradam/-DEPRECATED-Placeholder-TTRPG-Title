@@ -1,0 +1,29 @@
+# The Miracle Class
+
+###### Hearts - Clubs
+
+---
+
+A class based on buffing allies using the power of the gods. With the fall of the gods their faith is wavering and being tested. Though they still have many of their powers, their future remains uncertain.
+
+🔻Low Health, Fairly Slow Movement, but can multiply the abilities of allies🔻
+
+🔻unique abilities: improve damage, improve resistances, generally affecting allies🔻
+
+#### This class may select 2 talents, 1 each from the 2 talent pools:
+
+---
+
+##### Heart Talents
+- Rally
+- Manipulate
+- Fear
+
+---
+
+##### Club Talents
+- Endurance(Spellcasting)
+- Strength(Spellcasting)
+- Precision(Spellcasting)
+
+---

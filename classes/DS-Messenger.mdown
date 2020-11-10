@@ -1,0 +1,29 @@
+# The Messenger Class
+
+###### Diamond - Spades
+
+---
+
+Messengers are a very respected occupation that is given only to those who are able to manage to survive the hostile wilds and get through them quickly.
+
+🔻Low Health, Very Mobile🔻
+
+🔻abilities: Can have some of their movement during the enemies turn. They can also lay down traps🔻
+
+#### This class may seleect 2 talents, 1 each from the 2 talent pools:
+
+---
+
+##### Diamond Talents
+- Survival
+- Memory
+- Tactics
+
+---
+
+##### Spades
+- Endurance(Physical)
+- Strength(Physical)
+- Precision(Physical)
+
+---
