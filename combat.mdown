@@ -30,25 +30,3 @@ Sometimes you may have allies who join you in combat. They do their turn separat
 
 When combat ends, all players take any remaining cards in their hand, place them back into the deck and reshuffle the deck. Any players that have had their health reduced to 0 now may draw for an injury. If their injury doesn't outright kill them, they wake up from their shock. Once this has been done, the characters have completely existed combat. 
 
----
-
-### General Actions
-Although many classes have unique abilities and actions, there are a few actions that all classes may attempt
-##### Weapon Attack
-It costs 2 Stamina to do an attack with fists. If a weapon does not specify how much stamina it costs to attack then it is 2 stamina by default.
-##### Dash
-| Effect | Cost |
-| --- | --- |
-| 2 additional tiles of movement | 2 stamina |
-| 4 additional tiles of movement | 3 stamina |
-##### Item Usage or Interaction
-To use an item from your collection, or to interact with an item such as a switch, its costs 1 stamina unless stated otherwise
-##### Sneak 
-To attempt to enter a stealth status costs 2 stamina. If you are already in stealth at the start of a turn, you must expend 2 stamina to maintain stealth or else you break it when you move or are seen.
-##### 🔻Grapple, Pin and Arrest🔻
-First a character must be grappled, then they can be pinned, finally followed by arresting them, making them unable to fight
-- **TODO**
-
-##### 🔻 Prone, Crouch, Cover 🔻
-- **TODO**
-
