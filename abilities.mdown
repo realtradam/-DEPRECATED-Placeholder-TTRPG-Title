@@ -1,0 +1,80 @@
+# Abilities, Actions, and Spells
+
+Here all the various abilities that characters or specific classes may attempt.
+
+## General Actions
+Actions that any character may attempt
+
+##### Attack
+It costs 2 Stamina to do an attack with fists. If a weapon does not specify how much stamina it costs to attack then it is 2 stamina by default.
+##### Dash
+| Effect | Cost |
+| --- | --- |
+| 2 additional tiles of movement | 2 stamina |
+| 4 additional tiles of movement | 3 stamina |
+##### Item Usage or Interaction
+To use an item from your collection, or to interact with an item such as a switch, its costs 1 stamina unless stated otherwise
+##### Sneak 
+To attempt to enter a stealth status costs 2 stamina. If you are already in stealth at the start of a turn, you must expend 2 stamina to maintain stealth or else you break it when you move or are seen.
+##### 🔻Grapple, Pin and Arrest🔻
+First a character must be grappled, then they can be pinned, finally followed by arresting them, making them unable to fight
+- **TODO**
+
+##### 🔻 Prone, Crouch, Cover 🔻
+- **TODO**
+
+## Suit Abilities
+
+If you class associates with this suit then they made add it as one of their abilities counting toward their ability limit.
+
+### Hearts
+
+##### Cure
+| Cost | Effect |
+| - | - |
+| 3 stamina, 2 energy | Apply a card, heal a targets health equal to the cards value. If the card applied is of the suit hearts then also reduce an injury by half the value of the card | 
+<br />
+
+### Clubs
+
+##### Beam
+| Cost | Effect |
+| - | - |
+| 2 Stamina, 1 Energy | Apply a card, you create a beam starting from a square adjacent from you, in a direction away from you, with a length equal to your card, and an element based on your enchantment. |
+<br />
+
+### Spades
+
+##### Charge
+| Cost | Effect |
+| - | - |
+| 2 Stamina | Apply a card, you gain movement equal to the card applied. You can only move in direction from your current standing square. When you collied with an enemy by moving in a straight line toward them, you may deal damage equal to your card applied so long as it is of the suit diamonds and you moved at least 2 squares from the square you started your charge from.
+<br />
+
+##### Phalanx
+| Cost | Effect |
+| - | - |
+| 1 Stamina, You must have an ally standing on on opposite side if you, and directly next to you. | Apply a card, you block damage equal to the value if the card applied for all physical attacks, when using a spade suit card then consider its value doubled. You lose this effect at the start of your teams turn, of if you no longer have an ally on opposite sides of you directly next to you.
+<br />
+
+##### Twin Attack
+| Cost | Effect |
+| - | - |
+| 3 stamina, All your remaining movement | If you have not moved yet this turn, you may attack twice at no stamina cost |
+<br />
+
+### Diamonds
+
+##### Stomp
+| Cost | Effect |
+| - | - |
+| 2 stamina | Apply a card, you deal damage equal to the value of the card. If the card is of the suit is diamonds, you also reduce the enemies squares by half the value of your card |
+<br />
+
+## Class Abilities
+
+These are abilities you may choose for your specific class
+
+## Species Abilities
+
+Abilities you may choose based on your chosen species
