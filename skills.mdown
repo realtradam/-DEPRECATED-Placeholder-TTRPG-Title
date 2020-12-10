@@ -1,0 +1,34 @@
+#Skills
+
+## Suit Stats: 
+### Physical Feats (Spades)
+---
+	Endurance:	Running a marathon, holding your breath
+	Strength:	Pushing a rock, overpowering an opponent
+	Precision:	Walking a tightrope, picking a lock
+
+### Ŝanĝi Lokon (Clubs)
+---
+	Endurance:	Maintaining a spell cast
+	Strength:	Casting a lot of magic quickly
+	Precision:	Precise Casting
+
+### Communication (Hearts)
+---
+	Rally:		Convince someone to join, of something true
+	Manipulate:	Convincingly Lie
+	Fear:		Scare a target into compliance or fleeing
+	
+### Intuition (Diamonds)
+---
+	Wilderness:	Foraging, crafting potions
+	Hardware:	Building things, understanding contraptions
+	Tactics:	Outwitting an opponents
+
+## General Stats:
+	Health
+	Movement
+	Memory
+
+
+
