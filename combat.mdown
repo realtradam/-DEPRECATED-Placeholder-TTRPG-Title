@@ -9,7 +9,7 @@ Once turn order is determined, draw two more cards, totalling up to 3 cards whic
 
 ### Your turn
 New Idea:  
-All players take their turns simultaniously, however the order is determined by the priority of the given ability or action. During a turn characters can do multiple things, each thing they wish to do goes into a stack. Each layer of the stack this priority is determined, characters can only go once during such a "layer". Should characters tie, there needs to be a tie breaker
+All players take their turns simultaniously, however the order is determined by the priority of the given ability or action. During a turn characters can do multiple things, each thing they wish to do goes into a stack. Each layer of the stack this priority is determined, characters can only go once during such a "layer". Should characters tie, there needs to be a tie breaker  
 Teams take their turns all at the same time. Movement, attacks, abilities, etc can all be taken in any order, and can be interleaved within each other. Your character energy is restored when your teams turn ends as well as draw cards from your deck until you are holding 3 cards.
 
 ##### Summons
