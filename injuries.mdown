@@ -17,13 +17,30 @@ If an armless or legless player draws a card that inflicts injuries to the respe
 
 ### Heart: Torso
 This type of injury will can be something like having the body be poisoned, broken ribs, etc. This kinds of injuries can inflict statuses like reduced max stamina, chance to be stunned on hit, or reduced ability to lift
+- Lungs
+- Spine
+- Ribs
 
 ### Clubs: Head
 This type of injury could be like a concussion, scratched eyes, etc. These kinds of injuries usually inflict reduced ranges of abilities, chance of missing, or being dazed
+- Brain Injury
+- Eye Damage
+- Broken Jaw
+- Skull
+- Ear Damage
+- Throat/Neck
 
-### Spades: Arms
+### Spades: Arms/Hand/Fingers
 This type of injury often is a broken or dislocated arm. these kinds of injuries usually reduce damage delt with weapons, dificulty with interacting with object or picking up things, or even chance of missing with casting spells. Intensities that exeed 10 mean the character no longer has arms.
+- Broken
+- Crushed
+- Dismembered
+- Torn Muscles
 
-### Diamonds: Legs
+### Diamonds: Legs/Feet/Toes
 This type of injury can be something like a broken bone or a dislocated ankle. These kinds of injuries usually reduce the characters movement abilities, or sometimes even the ability to stand at all. Intensities that exeed 10 means the character no longer has legs.
+- Broken
+- Crushed
+- Dismembered
+- Torn Muscles
 
