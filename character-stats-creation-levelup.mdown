@@ -1,0 +1,66 @@
+# Character Stats and Creation
+
+Characters consist of 3 resources which are spent in various situations. Characters also begin with 2 talents they may choose from according to their class. All classes get various other benefits applied to their deck draws and other mechanics
+
+---
+
+## Character Resources
+
+### Energy
+How much you are able to do between rests. It costs energy to cast spells, use special abilities, reshuffle your deck etc. Characters start with 7 max energy, and can go up as a character gains experience
+
+### Stamina
+How much a character can do in a round. Individual actions such as dashing, attacking, spell casting, etc cost stamina. Stamina is restored when your team ends their turn. Characters by default have max stamina.
+
+In general stamina is the same for all players and does not change on level up. It may change because of spells, abilities, or items.
+
+### Health
+How much punishment a character can take before collapsing from shock and pain. More rounded characters have higher health, while specialized ones have less. It can increase on a level up
+
+## Character Creation
+
+Players get 3 points to spend for each Suit Stat(12 total points). They also get an additional 3 points to spend on their primary Suit Stat, and 2 additional points to spend on their secondary Suit Stat. The only limitation is each stat cannot go higher then 3 points during character creation.
+
+Once the points have been alloted, health can be determined. Max health is equal to double of your lowest total stat. 
+
+#### Sample Character Creation
+
+An example character created for a character with a primary stat in Hearts and a secondary stat in Diamonds
+
+| Spades    | Value |
+|-----------|-------|
+| Endurance | 0     |
+| Strength  | 2     |
+| Precision | 1     |
+| Total     | 3     |
+
+| Clubs     | Value |
+|-----------|-------|
+| Endurance | 1     |
+| Strength  | 1     |
+| Precision | 1     |
+| Total     | 3     |
+
+| Hearts     | Value |
+|------------|-------|
+| Rally      | 2     |
+| Manipulate | 3     |
+| Fear       | 1     |
+| Total      | 6     |
+
+| Diamonds   | Value |
+|------------|-------|
+| Wilderness | 3     |
+| Hardware   | 0     |
+| Tactics    | 2     |
+| Total      | 5     |
+
+To determine our max health we look at the lowest stat total of our 4 stat totals which is Spades or Clubs at 3. We then double this number to 6 and this is our max hp.
+
+#### Sample Level Up
+
+Whenever a character levels up, the player gets 2 points that they can place into any stats. These points can be split should the player want to.
+
+Using the previous example, a player could increase their maximum health. If they place 1 point into any stat under Spades, and into any stat under Clubs then the lowest stat total of all your stat totals becomes 4. This means that you change your max health from 6 to 8.
+
+However a player may decide to instead invest all their points into one stat, for example the manipulate stat under Hearts. In this case the character max health would remain unchanged.
