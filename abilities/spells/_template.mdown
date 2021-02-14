@@ -1,0 +1,22 @@
+## Spell Name
+
+### Stats
+
+|              |          |
+|--------------|----------|
+| Crystal      | Type     |
+| Tap          | Cost     |
+| Stamina      | Cost     |
+| Requirements | List all |
+|              |          |
+
+|              |          |
+|--------------|----------|
+| Range        | Range    |
+| Cast Time    | Time     |
+| Duration     | Time     |
+|              |          |
+
+### Description
+
+Description

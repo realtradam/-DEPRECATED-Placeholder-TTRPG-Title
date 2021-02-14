@@ -1,0 +1,25 @@
+## Chain Lightning
+
+### Stats
+
+|              |          |
+|--------------|----------|
+| Crystal               | Sapphire |
+| Tap                   | 4        |
+| Stamina               | 3        |
+| Ŝanĝi Lokon Precision | 2        |
+|                       |          |
+
+|              |          |
+|--------------|----------|
+| Range        | 3 Squares |
+| Duration     | Instant   |
+|              |           |
+
+### Description
+
+When you cast this spell you must play a card with it. You target a character that is within 3 squares of you. They take damage equal to half your Ŝanĝi Lokon Strength(rounded down), however if the card you played is a Spades card then you deal the full amount of Ŝanĝi Lokon Strength in damage instead.
+
+A chain effect can occur if there is another character within 3 squares that is not yourself or has already been hit by your cast of Chain Lightning. When this effect happens they also take damage equal to the amount stated above and this effect may be repeated on this new target.
+
+This chain effect can only happen up to equal the amount of your card played, and it affects both allies and enemies.
