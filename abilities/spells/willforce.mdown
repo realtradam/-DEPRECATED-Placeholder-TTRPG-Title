@@ -1,0 +1,22 @@
+## Willforce
+
+### Stats
+
+|              |          |
+|--------------|----------|
+| Crystal      | Any      |
+| Tap          | 1        |
+| Stamina      | 2        |
+| Precision    | 1        |
+|              |          |
+
+|              |          |
+|--------------|----------|
+| Range        | Equal to precision    |
+| Duration     | Instant     |
+| Priority     | 2   |
+|              |          |
+
+### Description
+
+You may push a target in a linear directiom you choose within range. If the card you played is even, they move 1 square in a direction of your choosing. If your card odd then move them 3 squares in a direction of your choosing. They do not take damage from colliding into objects or players, however they do still take damage from hazards as normal.

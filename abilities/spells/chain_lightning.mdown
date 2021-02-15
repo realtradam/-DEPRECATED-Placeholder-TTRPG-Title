@@ -14,6 +14,7 @@
 |--------------|----------|
 | Range        | 3 Squares |
 | Duration     | Instant   |
+| Priority     | 3         |
 |              |           |
 
 ### Description

@@ -14,6 +14,7 @@
 |--------------|----------|
 | Range        | Range    |
 | Duration     | Time     |
+| Priority     | Number   |
 |              |          |
 
 ### Description
