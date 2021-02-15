@@ -13,7 +13,6 @@
 |              |          |
 |--------------|----------|
 | Range        | Range    |
-| Cast Time    | Time     |
 | Duration     | Time     |
 |              |          |
 

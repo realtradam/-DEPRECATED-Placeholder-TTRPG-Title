@@ -28,3 +28,9 @@ People and cities all have a reputation towards you. A better reputation will en
 [^1]: A sample of how many extra cards you can draw based on your reputation. Negative values indicate the extra number of cards your social target gets to draw. This is just a sample chart for some characters however. A common townsfolk for example could be easily convinced to do something should someone have a very high negative reputation, simply out of fear. Reputation should be applied with context.
 
 In general hostile groups will have a starting default reputation as being very low while in most cities open cities the reputation would be fairly neutral. Reversing reputation is a very difficult and almost insurmountable task so be careful with how you want everyone to see you.
+
+---
+
+## Other idea
+
+A black jack style of game. a random or predetrmined goal is placed rather then 21. you must beat the enemy to succeed. Going under will make them simply not tell you, while going over may make them angry. You can use abilities, spells, or leverage things you know or even your reputation to change the results of a game. 
