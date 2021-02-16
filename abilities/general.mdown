@@ -2,6 +2,26 @@
 
 Here all the various abilities that characters or specific classes may attempt.
 
+## Spells
+
+##### Channeling
+Some spells require that you continuously cast them (rather then instantaniously cast them) so their effect remains, or some spells might have ways of enhancing their capabilities over time through channeling.
+
+Usually channeling involves spending some kind of resource such as stamina, and can be done multiple times a turn. Channeling can be continuous casted, but if you need to channel to keep the spell effect active then it cannot be continuous casted.
+
+If you take more damage then your endurance stat in one turn then your channeling also fails.
+
+##### Continuous Casting
+There may be a case where you have do not have enough stamina(but have at least 1) to cast a spell you wish to begin casting. In this case you can choose to do a continuous cast where you spend your remaining stamina to begin casting the spell.
+
+At the start of your next turn, so long as you have not been interrupted and you choose to continue casting, you immediately spend however much stamina there is remaining and gain the effect of the spell if you have spent enough stamina to cover the full cost of the spell. If you still did not reach the full cost of the spell on your second turn then you repeat this process of continuous casting until the amount is reached.
+
+If you are damaged an amount greater then your spell endurance in a single turn then you fail to continuous cast and all your stamina or other resources spent are wasted.
+
+---
+
+# old stuff?
+
 ## General Actions
 Actions that any character may attempt
 
