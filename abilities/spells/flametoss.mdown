@@ -1,0 +1,24 @@
+## Flametoss
+
+### Stats
+
+|              |          |
+|--------------|----------|
+| Crystal      | Ruby     |
+| Tap          | 2        |
+| Stamina      | 2        |
+| Strength     | 1        |
+|              |          |
+
+|              |          |
+|--------------|----------|
+| Range        | Double Your Prescision  |
+| Duration     | Instant     |
+| Priority     | 3   |
+|              |          |
+
+### Description
+
+Your character forms a small ball of flames in their hand and tosses it toward a target. 
+
+You must have direct line of sight to hit the target, there cannot be something or somone in beterrn. Deals 2 damage to the target.

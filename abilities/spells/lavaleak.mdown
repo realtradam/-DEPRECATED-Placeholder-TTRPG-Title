@@ -1,0 +1,28 @@
+## Spell Name
+
+### Stats
+
+|              |          |
+|--------------|----------|
+| Crystal      | Ruby     |
+| Tap          | 4     |
+| Stamina      | 3     |
+| Requirements | Prescision 2 |
+|              |          |
+
+|              |          |
+|--------------|----------|
+| Range        | 4        |
+| Duration     | Varies     |
+| Priority     | 4   |
+|              |          |
+
+### Description
+
+Create a rift which has lava constantly flowing out of it. This rift remains open while you are casting/concentrating.
+
+You cast this spell centered on an empty square within 4 squares of yourself. This square immediately becomes filled with knee deep lava and anyone who moves into, is moved into, or ends their turn on such a square takes 4 damage. After casting the spell you can move any distance away from the rift as long as you are within double your precision stat in squares from the rift.
+
+To spread the lava to each empty adjacent square of any lava that originated from the rift, you must spend a number of stamina equal to your card played(can be continue casted) or half of this if the card played is Spades(rounded up). You can only spread the lava a number of times equal to your endurance stat per casting of this spell.
+
+To keep the rift open you must spread the lava, or do a continued casting of the spread. Otherwise the spell ends, and all the lava immediately cools down into a crumbly powder like rock.
