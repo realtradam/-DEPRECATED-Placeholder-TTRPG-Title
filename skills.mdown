@@ -1,34 +1,49 @@
-#Skills
+# Skills
 
-## Suit Stats: 
-### Physical Feats (Spades)
+## Suit Stats:
+<!--
+maybe switch face with Intuition
+-->
+### Physical Feats (Spades/Swords - Winter)
 ---
 	Endurance:	Running a marathon, holding your breath
 	Strength:	Pushing a rock, overpowering an opponent
 	Precision:	Walking a tightrope, picking a lock
 
-### Ŝanĝi Lokon (Clubs)
+	Health
+
+### Ŝanĝi Lokon (Clubs/Wands - Spring)
 ---
 	Endurance:	Maintaining a spell cast
 	Strength:	Casting a lot of magic quickly
-	Precision:	Precise Casting
-
-### Communication (Hearts)
----
-	Rally:		Convince someone to join, of something true
-	Manipulate:	Convincingly Lie
-	Fear:		Scare a target into compliance or fleeing
+	Precision:	Casting at long ranges with great accuracy
 	
-### Intuition (Diamonds)
+	Blood
+
+### Communication (Hearts/Cups - Summer)
 ---
-	Wilderness:	Foraging, crafting potions
-	Hardware:	Building things, understanding contraptions
-	Tactics:	Outwitting an opponents
+
+	Presence:	Leaving an impression on others. Being able to exert your stance.
+	Deception:	Present falsities as facts
+	Empathy:	Showing you understand others
+	
+	Appearance
+	
+### Intuition (Diamonds/Pentacles - Autumn)
+
+<!--
+needs fixing explanations
+-->
+
+---
+	Analytics:	Analyze a problem
+	Practicality:	Using a complex tool, street smarts
+	Creativity:	Novelty, Creation, Expression
+	
+	Memory
 
 ## General Stats:
-	Health
-	Movement
-	Memory
+	Movement?
 
 
 
