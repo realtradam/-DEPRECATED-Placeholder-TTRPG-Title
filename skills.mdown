@@ -1,11 +1,11 @@
 # Skills
 
 ## Suit Stats:
+### Physical Feats (Diamonds/Pentacles - Autumn)
+---
 <!--
 maybe switch face with Intuition
 -->
-### Physical Feats (Spades/Swords - Winter)
----
 	Endurance:	Running a marathon, holding your breath
 	Strength:	Pushing a rock, overpowering an opponent
 	Precision:	Walking a tightrope, picking a lock
@@ -29,7 +29,7 @@ maybe switch face with Intuition
 	
 	Appearance
 	
-### Intuition (Diamonds/Pentacles - Autumn)
+### Intuition (Spades/Swords - Winter)
 
 <!--
 needs fixing explanations
